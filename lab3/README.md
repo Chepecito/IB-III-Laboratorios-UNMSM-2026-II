@@ -29,6 +29,7 @@ data/resistencias.csv           Valores nominales y medidos de las resistencias 
 data/mediciones.csv             Mediciones de las etapas A, B y C (Tablas 2 a 4)
 analysis.py                     Ganancias, CMRR y error relativo
 docs/esquematico_lab3.pdf       Esquemático exportado (etapas A, B y C)
+docs/informe/informe_laboratorio_3.pdf   Informe final del grupo
 hardware/kicad/                 Proyecto KiCad 10 (esquemático editable)
 ```
 
