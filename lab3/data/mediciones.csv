@@ -1,0 +1,4 @@
+etapa,senal,v_entrada_Vpp,v_salida_Vpp,observacion
+A,V1 y V2 a GND,0,0.002,Tension continua en VOUT (V)
+B,Diferencial,0.0303,0.468,Salida desfasada ~180 grados respecto a V1
+C,Modo comun 60 Hz,2.05,0.00375,Salida afectada por ruido

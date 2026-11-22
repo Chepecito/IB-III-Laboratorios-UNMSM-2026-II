@@ -11,6 +11,7 @@ Este repositorio reunirá todos los laboratorios del curso **Instrumentación Bi
 | N.º | Tema | Carpeta | Estado |
 |---|---|---|---|
 | 1 | Acondicionamiento de señales de alta impedancia (simulador de electrodo de pH con ESP32 y buffer TL084 / LM324) | [`lab1`](lab1) | Completado |
+| 3 | Amplificador de instrumentación de tres op-amps (TL084N) y rechazo de modo común | [`lab3`](lab3) | Completado |
 
 ## Organización de cada laboratorio
 
@@ -18,6 +19,7 @@ Este repositorio reunirá todos los laboratorios del curso **Instrumentación Bi
 firmware/    Código cargado en el microcontrolador
 data/        Datos medidos (CSV)
 docs/        Guía, esquemáticos, diagramas y gráficas
+hardware/    Proyectos de KiCad
 analysis.py  Cálculo de errores y gráficas de resultados
 README.md    Objetivos, fundamento, montaje, procedimiento y resultados
 ```
